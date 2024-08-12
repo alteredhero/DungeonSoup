@@ -1,0 +1,43 @@
+{
+    "current_theme": "dark",
+    "filters": {
+        "Expansion": {
+            "A Realm Reborn": false,
+            "Heavensward": false,
+            "Stormblood": false,
+            "Shadowbringers": false,
+            "Endwalker": false,
+            "Dawntrail": false
+        },
+        "Level": {
+            "10-15": false,
+            "15-20": true,
+            "20-25": true,
+            "25-30": false,
+            "35-40": false,
+            "45-50": true,
+            "50-55": false,
+            "55-60": false,
+            "65-70": false,
+            "75-80": false,
+            "85-90": false,
+            "90-95": false,
+            "95-100": false
+        },
+        "Quest Type": {
+            "Main Quest": false,
+            "Feature Quest": false
+        },
+        "Duty Type": {
+            "Dungeons": false,
+            "Trials": false,
+            "Raids": false,
+            "Guildhests": false
+        },
+        "Status": {
+            "Locked": false,
+            "Unlocked": false
+        }
+    },
+    "language_file": "es.json"
+}

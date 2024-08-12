@@ -1,0 +1,2512 @@
+[
+    {
+        "expansion": "A Realm Reborn",
+        "duties": [
+            {
+                "type": "Dungeons",
+                "duties": [
+                    {
+                        "Name": "Sastasha",
+                        "Level": 15,
+                        "Unlock": "It's Probably Pirates",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Tam-Tara Deepcroft",
+                        "Level": 16,
+                        "Unlock": "Fire in the Gloom",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Copperbell Mines",
+                        "Level": 17,
+                        "Unlock": "Into a Copper Hell",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Halatali",
+                        "Level": 20,
+                        "Unlock": "Hallo Halatali",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Thousand Maws of Toto-Rak",
+                        "Level": 24,
+                        "Unlock": "Into the Beast's Maw",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Haukke Manor",
+                        "Level": 28,
+                        "Unlock": "Skeletons in Her Closet",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Brayflox's Longstop",
+                        "Level": 32,
+                        "Unlock": "The Things We Do for Cheese",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Sunken Temple of Qarn",
+                        "Level": 35,
+                        "Unlock": "Braving New Depths",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Cutter's Cry",
+                        "Level": 38,
+                        "Unlock": "Dishonor Before Death",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Stone Vigil",
+                        "Level": 41,
+                        "Unlock": "In Pursuit of the Past",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Dzemael Darkhold",
+                        "Level": 44,
+                        "Unlock": "Fort of Fear",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Aurum Vale",
+                        "Level": 47,
+                        "Unlock": "Going for Gold",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Castrum Meridianum",
+                        "Level": 50,
+                        "Unlock": "Rock the Castrum",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Praetorium",
+                        "Level": 50,
+                        "Unlock": "The Ultimate Weapon",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Wanderer's Palace",
+                        "Level": 50,
+                        "Unlock": "Trauma Queen",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Amdapor Keep",
+                        "Level": 50,
+                        "Unlock": "Ghosts of Amdapor",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Pharos Sirius",
+                        "Level": 50,
+                        "Unlock": "Sirius Business",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Copperbell Mines (Hard)",
+                        "Level": 50,
+                        "Unlock": "Out of Sight, Out of Mine",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Haukke Manor (Hard)",
+                        "Level": 50,
+                        "Unlock": "Maniac Manor",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Lost City of Amdapor",
+                        "Level": 50,
+                        "Unlock": "One Night in Amdapor",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Halatali (Hard)",
+                        "Level": 50,
+                        "Unlock": "This Time's for Fun",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Brayflox's Longstop (Hard)",
+                        "Level": 50,
+                        "Unlock": "Curds and Slay",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Hullbreaker Isle",
+                        "Level": 50,
+                        "Unlock": "King of the Hull",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Tam-Tara Deepcroft (Hard)",
+                        "Level": 50,
+                        "Unlock": "Corpse Groom",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Stone Vigil (Hard)",
+                        "Level": 50,
+                        "Unlock": "Blood for Stone",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Snowcloak",
+                        "Level": 50,
+                        "Unlock": "The Path of the Righteous",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Sastasha (Hard)",
+                        "Level": 50,
+                        "Unlock": "It's Definitely Pirates",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Sunken Temple of Qarn (Hard)",
+                        "Level": 50,
+                        "Unlock": "The Wrath of Qarn",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Keeper of the Lake",
+                        "Level": 50,
+                        "Unlock": "The Rising Chorus",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Wanderer's Palace (Hard)",
+                        "Level": 50,
+                        "Unlock": "Not Easy Being Green",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Amdapor Keep (Hard)",
+                        "Level": 50,
+                        "Unlock": "For Keep's Sake",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Trials",
+                "duties": [
+                    {
+                        "Name": "The Bowl of Embers",
+                        "Level": 20,
+                        "Unlock": "Lord of the Inferno",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Navel",
+                        "Level": 34,
+                        "Unlock": "Lord of Crags",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Howling Eye",
+                        "Level": 44,
+                        "Unlock": "Lady of the Vortex",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Porta Decumana",
+                        "Level": 50,
+                        "Unlock": "The Ultimate Weapon",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Bowl of Embers (Hard)",
+                        "Level": 50,
+                        "Unlock": "Ifrit Bleeds, We Can Kill It",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Howling Eye (Hard)",
+                        "Level": 50,
+                        "Unlock": "In for Garuda Awakening",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Navel (Hard)",
+                        "Level": 50,
+                        "Unlock": "In a Titan Spot",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Thornmarch (Hard)",
+                        "Level": 50,
+                        "Unlock": "You Have Selected Regicide",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "A Relic Reborn: The Chimera",
+                        "Level": 50,
+                        "Unlock": "Repeatable A Relic Reborn",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "A Relic Reborn: The Hydra",
+                        "Level": 50,
+                        "Unlock": "Repeatable A Relic Reborn",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Whorleater (Hard)",
+                        "Level": 50,
+                        "Unlock": "Lord of the Whorl",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Battle on the Big Bridge",
+                        "Level": 50,
+                        "Unlock": "The Three Collectors",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Striking Tree (Hard)",
+                        "Level": 50,
+                        "Unlock": "Levin an Impression",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Akh Afah Amphitheatre (Hard)",
+                        "Level": 50,
+                        "Unlock": "The Instruments of Our Deliverance",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Dragon's Neck",
+                        "Level": 50,
+                        "Unlock": "The Coliseum Conundrum",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Chrysalis",
+                        "Level": 50,
+                        "Unlock": "An Uninvited Ascian",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Battle in the Big Keep",
+                        "Level": 50,
+                        "Unlock": "Her Last Vow",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Urth's Fount",
+                        "Level": 50,
+                        "Unlock": "Fear and Odin in the Shroud",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Ultima's Bane",
+                        "Level": 50,
+                        "Unlock": "The Ultimate Ballad",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Howling Eye (Extreme)",
+                        "Level": 50,
+                        "Unlock": "Gale-force Warning",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Navel (Extreme)",
+                        "Level": 50,
+                        "Unlock": "Quake Me Up Before You O'Ghomoro",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Bowl of Embers (Extreme)",
+                        "Level": 50,
+                        "Unlock": "Ifrit Ain't Broke",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Thornmarch (Extreme)",
+                        "Level": 50,
+                        "Unlock": "The King Lives",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Whorleater (Extreme)",
+                        "Level": 50,
+                        "Unlock": "Whorl of a Time",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Striking Tree (Extreme)",
+                        "Level": 50,
+                        "Unlock": "Judgment Bolts and Lightning",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Akh Afah Amphitheatre (Extreme)",
+                        "Level": 50,
+                        "Unlock": "Drop Dead Shiva",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Raids",
+                "duties": [
+                    {
+                        "Name": "The Labyrinth of the Ancients",
+                        "Level": 50,
+                        "Unlock": "Labyrinth of the Ancients",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Syrcus Tower",
+                        "Level": 50,
+                        "Unlock": "Syrcus Tower",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The World of Darkness",
+                        "Level": 50,
+                        "Unlock": "The World of Darkness",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Binding Coil of Bahamut",
+                        "Level": 50,
+                        "Unlock": "Primal Awakening",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Second Coil of Bahamut",
+                        "Level": 50,
+                        "Unlock": "Another Turn in the Coil",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Second Coil of Bahamut (Savage)",
+                        "Level": 50,
+                        "Unlock": "Sing Me Another Song",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Final Coil of Bahamut",
+                        "Level": 50,
+                        "Unlock": "Fragments of Truth",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expansion": "Heavensward",
+        "duties": [
+            {
+                "type": "Dungeons",
+                "duties": [
+                    {
+                        "Name": "The Dusk Vigil",
+                        "Level": 51,
+                        "Unlock": "For All the Nights to Come",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Sohm Al",
+                        "Level": 53,
+                        "Unlock": "Mourn in Passing",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Aery",
+                        "Level": 55,
+                        "Unlock": "Into the Aery",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Vault",
+                        "Level": 57,
+                        "Unlock": "A Knight's Calling",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Great Gubal Library",
+                        "Level": 59,
+                        "Unlock": "Forbidden Knowledge",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Aetherochemical Research Facility",
+                        "Level": 60,
+                        "Unlock": "Heavensward",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Neverreap",
+                        "Level": 60,
+                        "Unlock": "Reap What You Sow",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Fractal Continuum",
+                        "Level": 60,
+                        "Unlock": "Do It for Gilly",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Saint Mocianne's Arboretum",
+                        "Level": 60,
+                        "Unlock": "An Overgrown Ambition",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Pharos Sirius (Hard)",
+                        "Level": 60,
+                        "Unlock": "Things Are Getting Sirius",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Antitower",
+                        "Level": 60,
+                        "Unlock": "The Word of the Mother",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Lost City of Amdapor (Hard)",
+                        "Level": 60,
+                        "Unlock": "One More Night in Amdapor",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Sohr Khai",
+                        "Level": 60,
+                        "Unlock": "Winning Over the Wyrm",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Hullbreaker Isle (Hard)",
+                        "Level": 60,
+                        "Unlock": "Storming the Hull",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Xelphatol",
+                        "Level": 60,
+                        "Unlock": "Shadows of the First",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Great Gubal Library (Hard)",
+                        "Level": 60,
+                        "Unlock": "Let Me Gubal That for You",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Baelsar's Wall",
+                        "Level": 60,
+                        "Unlock": "Griffin, Griffin on the Wall",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Sohm Al (Hard)",
+                        "Level": 60,
+                        "Unlock": "The Fires of Sohm Al",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Trials",
+                "duties": [
+                    {
+                        "Name": "Thok ast Thok (Hard)",
+                        "Level": 53,
+                        "Unlock": "Lord of the Hive",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Limitless Blue (Hard)",
+                        "Level": 57,
+                        "Unlock": "Bolt, Chain, and Island",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Singularity Reactor",
+                        "Level": 60,
+                        "Unlock": "Heavensward",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Containment Bay S1T7",
+                        "Level": 60,
+                        "Unlock": "When the Bough Wakes",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Final Steps of Faith",
+                        "Level": 60,
+                        "Unlock": "An End to the Song",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Containment Bay P1T6",
+                        "Level": 60,
+                        "Unlock": "Balance unto All",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Containment Bay Z1T9",
+                        "Level": 60,
+                        "Unlock": "The Last Pillar to Fall",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Limitless Blue (Extreme)",
+                        "Level": 60,
+                        "Unlock": "The Diabolical Bismarck",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Thok ast Thok (Extreme)",
+                        "Level": 60,
+                        "Unlock": "Thok Around the Clock",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Thordan's Reign",
+                        "Level": 60,
+                        "Unlock": "Thordan's Reign",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Containment Bay S1T7 (Extreme)",
+                        "Level": 60,
+                        "Unlock": "A Fiendish Likeness",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Nidhogg's Rage",
+                        "Level": 60,
+                        "Unlock": "Nidhogg's Rage",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Containment Bay P1T6 (Extreme)",
+                        "Level": 60,
+                        "Unlock": "A Deific Simulacrum",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Containment Bay Z1T9 (Extreme)",
+                        "Level": 60,
+                        "Unlock": "A Demonic Duplicate",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Raids",
+                "duties": [
+                    {
+                        "Name": "Alexander: Gordias",
+                        "Level": 60,
+                        "Unlock": "Disarmed",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Alexander: Gordias (Savage)",
+                        "Level": 60,
+                        "Unlock": "A Song of Steam and Steel",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Alexander: Midas",
+                        "Level": 60,
+                        "Unlock": "Rearmed",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Alexander: Midas (Savage)",
+                        "Level": 60,
+                        "Unlock": "A Refrain for the Undaunted",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Alexander: The Creator",
+                        "Level": 60,
+                        "Unlock": "The Coeurl and the Colossus",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Alexander: The Creator (Savage)",
+                        "Level": 60,
+                        "Unlock": "Who Lives, Who Dies, Who Retells Your Story",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Void Ark",
+                        "Level": 60,
+                        "Unlock": "To Rule the Skies",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Weeping City of Mhach",
+                        "Level": 60,
+                        "Unlock": "The Weeping City",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Dun Scaith",
+                        "Level": 60,
+                        "Unlock": "Where Shadows Reign",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expansion": "Stormblood",
+        "duties": [
+            {
+                "type": "Dungeons",
+                "duties": [
+                    {
+                        "Name": "The Sirensong Sea",
+                        "Level": 61,
+                        "Unlock": "Not without Incident",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Shisui of the Violet Tides",
+                        "Level": 63,
+                        "Unlock": "The Palace of Lost Souls",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Bardam's Mettle",
+                        "Level": 65,
+                        "Unlock": "In the Footsteps of Bardam the Brave",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Doma Castle",
+                        "Level": 67,
+                        "Unlock": "The Die Is Cast",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Castrum Abania",
+                        "Level": 69,
+                        "Unlock": "The Price of Freedom",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Ala Mhigo",
+                        "Level": 70,
+                        "Unlock": "Stormblood",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Kugane Castle",
+                        "Level": 70,
+                        "Unlock": "King of the Castle",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Temple of the Fist",
+                        "Level": 70,
+                        "Unlock": "To Kill a Coeurl",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Drowned City of Skalla",
+                        "Level": 70,
+                        "Unlock": "The Mad King's Trove",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Hells' Lid",
+                        "Level": 70,
+                        "Unlock": "An Auspicious Encounter",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Fractal Continuum (Hard)",
+                        "Level": 70,
+                        "Unlock": "An Unwanted Truth",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Swallow's Compass",
+                        "Level": 70,
+                        "Unlock": "Tortoise in Time",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Burn",
+                        "Level": 70,
+                        "Unlock": "Feel the Burn",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Saint Mocianne's Arboretum (Hard)",
+                        "Level": 70,
+                        "Unlock": "Secret of the Ooze",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Ghimlyt Dark",
+                        "Level": 70,
+                        "Unlock": "The Face of War",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Trials",
+                "duties": [
+                    {
+                        "Name": "The Pool of Tribute",
+                        "Level": 63,
+                        "Unlock": "The Lord of the Revel",
+                        "Quest Type": "Main Scenario Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Emanation",
+                        "Level": 67,
+                        "Unlock": "The Lady of Bliss",
+                        "Quest Type": "Main Scenario Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Royal Menagerie",
+                        "Level": 70,
+                        "Unlock": "Stormblood",
+                        "Quest Type": "Main Scenario Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Jade Stoa",
+                        "Level": 70,
+                        "Unlock": "An Auspicious Encounter",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Castrum Fluminis",
+                        "Level": 70,
+                        "Unlock": "The Primary Agreement",
+                        "Quest Type": "Main Scenario Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Great Hunt",
+                        "Level": 70,
+                        "Unlock": "The New King on the Block",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Hells' Kier",
+                        "Level": 70,
+                        "Unlock": "The Fire-bird Down Below",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Wreath of Snakes",
+                        "Level": 70,
+                        "Unlock": "Surpassing the Samurai",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Kugane Ohashi",
+                        "Level": 70,
+                        "Unlock": "The Past Is Never Past",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Pool of Tribute (Extreme)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Emanation (Extreme)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Shinryu's Domain",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Jade Stoa (Extreme)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Tsukuyomi's Pain",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Great Hunt (Extreme)",
+                        "Level": 70,
+                        "Unlock": "The Newer King on the Block",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Hells' Kier (Extreme)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Wreath of Snakes (Extreme)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Raids",
+                "duties": [
+                    {
+                        "Name": "Omega: Deltascape",
+                        "Level": 70,
+                        "Unlock": "Into the Deltascape",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Omega: Deltascape (Savage)",
+                        "Level": 70,
+                        "Unlock": "Magitek Terminal, Rhalgr's Reach",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Unending Coil of Bahamut (Ultimate)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Ultimate Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Omega: Sigmascape",
+                        "Level": 70,
+                        "Unlock": "No Slowing Down",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Omega: Sigmascape (Savage)",
+                        "Level": 70,
+                        "Unlock": "Magitek Terminal, Rhalgr's Reach",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Weapon's Refrain (Ultimate)",
+                        "Level": 70,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Ultimate Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Omega: Alphascape",
+                        "Level": 70,
+                        "Unlock": "In the Beginning, There Was Chaos",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Omega: Alphascape (Savage)",
+                        "Level": 70,
+                        "Unlock": "Magitek Terminal, Rhalgr's Reach",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Royal City of Rabanastre",
+                        "Level": 70,
+                        "Unlock": "A City Fallen",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Ridorana Lighthouse",
+                        "Level": 70,
+                        "Unlock": "Annihilation",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Orbonne Monastery",
+                        "Level": 70,
+                        "Unlock": "The City of Lost Angels",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expansion": "Shadowbringers",
+        "duties": [
+            {
+                "type": "Dungeons",
+                "duties": [
+                    {
+                        "Name": "Holminster Switch",
+                        "Level": 71,
+                        "Unlock": "Warrior of Darkness",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "Dohn Mheg",
+                        "Level": 73,
+                        "Unlock": "The Key to the Castle",
+                        "Quest Type": "Main Quest",
+                        "Status": "Unlocked",
+                        "Tags": [
+                            "unlocked"
+                        ]
+                    },
+                    {
+                        "Name": "The Qitana Ravel",
+                        "Level": 75,
+                        "Unlock": "A Fresh Start",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Malikah's Well",
+                        "Level": 77,
+                        "Unlock": "Into the Dark",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Mt. Gulg",
+                        "Level": 79,
+                        "Unlock": "Extinguishing the Last Light",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Amaurot",
+                        "Level": 80,
+                        "Unlock": "Shadowbringers",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Twinning",
+                        "Level": 80,
+                        "Unlock": "By the Time You Hear This",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Akadaemia Anyder",
+                        "Level": 80,
+                        "Unlock": "Akadaemia Anyder",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Grand Cosmos",
+                        "Level": 80,
+                        "Unlock": "A Grand Adventure",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Anamnesis Anyder",
+                        "Level": 80,
+                        "Unlock": "Beneath the Surface",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Heroes' Gauntlet",
+                        "Level": 80,
+                        "Unlock": "The Converging Light",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Matoya's Relict",
+                        "Level": 80,
+                        "Unlock": "Like Master, Like Pupil",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Paglth'an",
+                        "Level": 80,
+                        "Unlock": "On Rough Seas",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Trials",
+                "duties": [
+                    {
+                        "Name": "The Dancing Plague",
+                        "Level": 73,
+                        "Unlock": "Acht-la Ormh Inn",
+                        "Quest Type": "Main Scenario",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Crown of the Immaculate",
+                        "Level": 79,
+                        "Unlock": "Extinguishing the Last Light",
+                        "Quest Type": "Main Scenario",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Dying Gasp",
+                        "Level": 80,
+                        "Unlock": "Shadowbringers",
+                        "Quest Type": "Main Scenario",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Cinder Drift",
+                        "Level": 80,
+                        "Unlock": "Ruby Doomsday",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Seat of Sacrifice",
+                        "Level": 80,
+                        "Unlock": "Hope's Confluence",
+                        "Quest Type": "Main Scenario",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Castrum Marinum",
+                        "Level": 80,
+                        "Unlock": "Blood of Emerald",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Cloud Deck",
+                        "Level": 80,
+                        "Unlock": "Duty in the Sky with Diamond",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Dancing Plague (Extreme)",
+                        "Level": 80,
+                        "Unlock": "Minstrel from Another Mother",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Crown of the Immaculate (Extreme)",
+                        "Level": 80,
+                        "Unlock": "Minstrel from Another Mother",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Hades's Elegy",
+                        "Level": 80,
+                        "Unlock": "Minstrel from Another Mother",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Cinder Drift (Extreme)",
+                        "Level": 80,
+                        "Unlock": "Weapon of Choice",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Memoria Misera (Extreme)",
+                        "Level": 80,
+                        "Unlock": "The Bozja Incident",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Seat of Sacrifice (Extreme)",
+                        "Level": 80,
+                        "Unlock": "Minstrel from Another Mother",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Castrum Marinum (Extreme)",
+                        "Level": 80,
+                        "Unlock": "Weapon of Choice",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Cloud Deck (Extreme)",
+                        "Level": 80,
+                        "Unlock": "Weapon of Choice",
+                        "Quest Type": "High-end",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Raids",
+                "duties": [
+                    {
+                        "Name": "Eden's Gate",
+                        "Level": 80,
+                        "Unlock": "Deploy the Core",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Eden's Gate (Savage)",
+                        "Level": 80,
+                        "Unlock": "The Next Piece of the Puzzle",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Epic of Alexander (Ultimate)",
+                        "Level": 80,
+                        "Unlock": "Songs in the Key of Kugane",
+                        "Quest Type": "Ultimate Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Eden's Verse",
+                        "Level": 80,
+                        "Unlock": "Blood and Thunder",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Eden's Verse (Savage)",
+                        "Level": 80,
+                        "Unlock": "The Next Piece of the Puzzle",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Eden's Promise",
+                        "Level": 80,
+                        "Unlock": "Fear of the Dark",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Eden's Promise (Savage)",
+                        "Level": 80,
+                        "Unlock": "The Next Piece of the Puzzle",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Copied Factory",
+                        "Level": 80,
+                        "Unlock": "On the Threshold",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Puppets' Bunker",
+                        "Level": 80,
+                        "Unlock": "Everything You Know Is Wrong",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Tower at Paradigm's Breach",
+                        "Level": 80,
+                        "Unlock": "Brave New World",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expansion": "Endwalker",
+        "duties": [
+            {
+                "type": "Dungeons",
+                "duties": [
+                    {
+                        "Name": "The Tower of Zot",
+                        "Level": 81,
+                        "Unlock": "In the Dark of the Tower",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Tower of Babil",
+                        "Level": 83,
+                        "Unlock": "Gateway of the Gods",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Vanaspati",
+                        "Level": 85,
+                        "Unlock": "A Frosty Reception",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Ktisis Hyperboreia",
+                        "Level": 87,
+                        "Unlock": "Caging the Messenger",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Aitiascope",
+                        "Level": 89,
+                        "Unlock": "You're Not Alone",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Dead Ends",
+                        "Level": 90,
+                        "Unlock": "Endwalker",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Alzadaal's Legacy",
+                        "Level": 90,
+                        "Unlock": "Alzadaal's Legacy",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Stigma Dreamscape",
+                        "Level": 90,
+                        "Unlock": "Where No Loporrit Has Gone Before",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Smileton",
+                        "Level": 90,
+                        "Unlock": "Cutting the Cheese",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Fell Court of Troia",
+                        "Level": 90,
+                        "Unlock": "Buried Memory",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Lapis Manalis",
+                        "Level": 90,
+                        "Unlock": "King of the Mountain",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Trials",
+                "duties": [
+                    {
+                        "Name": "The Dark Inside",
+                        "Level": 83,
+                        "Unlock": "The Martyr",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Mothercrystal",
+                        "Level": 89,
+                        "Unlock": "Her Children, One and All",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Final Day",
+                        "Level": 90,
+                        "Unlock": "Endwalker",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Storm's Crown",
+                        "Level": 90,
+                        "Unlock": "The Wind Rises",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Mount Ordeals",
+                        "Level": 90,
+                        "Unlock": "Desires Untold",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Voidcast Dais",
+                        "Level": 90,
+                        "Unlock": "Abyssal Dark",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Abyssal Fracture",
+                        "Level": 90,
+                        "Unlock": "Down in the Dark",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Gilded Araya",
+                        "Level": 90,
+                        "Unlock": "Gentlemen at Heart",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Zodiark's Fall",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Hydaelyn's Call",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Minstrel's Ballad: Endsinger's Aria",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Storm's Crown (Extreme)",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Mount Ordeals (Extreme)",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Voidcast Dais (Extreme)",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Abyssal Fracture (Extreme)",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Raids",
+                "duties": [
+                    {
+                        "Name": "Pandaemonium: Asphodelos",
+                        "Level": 90,
+                        "Unlock": "The Crystal from Beyond",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Pandaemonium: Asphodelos (Savage)",
+                        "Level": 90,
+                        "Unlock": "Nemjiji, Labyrinthos",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Dragonsong's Reprise (Ultimate)",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "Ultimate Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Pandaemonium: Abyssos",
+                        "Level": 90,
+                        "Unlock": "An Unwelcome Visitor",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Pandaemonium: Abyssos (Savage)",
+                        "Level": 90,
+                        "Unlock": "Nemjiji, Labyrinthos",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Omega Protocol (Ultimate)",
+                        "Level": 90,
+                        "Unlock": "I Wandered Sharlayan as a Minstrel",
+                        "Quest Type": "Ultimate Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Pandaemonium: Anabaseios",
+                        "Level": 90,
+                        "Unlock": "Eater of Souls",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Pandaemonium: Anabaseios (Savage)",
+                        "Level": 90,
+                        "Unlock": "Nemjiji, Labyrinthos",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Aglaia",
+                        "Level": 90,
+                        "Unlock": "The Realm of the Gods",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Euphrosyne",
+                        "Level": 90,
+                        "Unlock": "Return to the Phantom Realm",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Thaleia",
+                        "Level": 90,
+                        "Unlock": "The Heart of the Myth",
+                        "Quest Type": "24-man Alliance Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expansion": "Dawntrail",
+        "duties": [
+            {
+                "type": "Dungeons",
+                "duties": [
+                    {
+                        "Name": "Ihuykatumu",
+                        "Level": 91,
+                        "Unlock": "For All Turali",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Worqor Zormor",
+                        "Level": 93,
+                        "Unlock": "The High Luminary",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Skydeep Cenote",
+                        "Level": 95,
+                        "Unlock": "Road to the Golden City",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Vanguard",
+                        "Level": 97,
+                        "Unlock": "All Aboard",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Origenics",
+                        "Level": 99,
+                        "Unlock": "The Resilient Son",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Alexandria",
+                        "Level": 100,
+                        "Unlock": "Dawntrail",
+                        "Quest Type": "Main Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Tender Valley",
+                        "Level": 100,
+                        "Unlock": "It Belongs in a Museum",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Strayborough Deadwalk",
+                        "Level": 100,
+                        "Unlock": "Something Stray in the Neighborhood",
+                        "Quest Type": "Feature Quest",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Trials",
+                "duties": [
+                    {
+                        "Name": "Worqor Lar Dor",
+                        "Level": 93,
+                        "Unlock": "The Skyruin",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Everkeep",
+                        "Level": 99,
+                        "Unlock": "The Resilient Son",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "The Interphos",
+                        "Level": 100,
+                        "Unlock": "Dawntrail",
+                        "Quest Type": "Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "Worqor Lar Dor (Extreme)",
+                        "Level": 100,
+                        "Unlock": "How the West Was Sung",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Everkeep (Extreme)",
+                        "Level": 100,
+                        "Unlock": "How the West Was Sung",
+                        "Quest Type": "High-end Trials",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Raids",
+                "duties": [
+                    {
+                        "Name": "AAC Light-heavyweight Tier",
+                        "Level": 100,
+                        "Unlock": "A New Challenger Appears",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    },
+                    {
+                        "Name": "AAC Light-heavyweight Tier (Savage)",
+                        "Level": 100,
+                        "Unlock": "The Neoteric Witch",
+                        "Quest Type": "8-man Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "oddrow"
+                        ]
+                    },
+                    {
+                        "Name": "Futures Rewritten (Ultimate)",
+                        "Level": 100,
+                        "Unlock": "",
+                        "Quest Type": "Ultimate Raids",
+                        "Status": "Locked",
+                        "Tags": [
+                            "evenrow"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
